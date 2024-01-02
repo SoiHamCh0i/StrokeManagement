@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "908118791506",
+    "firebase_url": "https://healthywarning-default-rtdb.firebaseio.com",
+    "project_id": "healthywarning",
+    "storage_bucket": "healthywarning.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908118791506:android:a8bd0207ece77afea9168b",
+        "android_client_info": {
+          "package_name": "com.example.a3strokemanagement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBixDx6pwMDlGsN9ktlJndgL42gInI0F2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908118791506:android:2cf3c0ce6d248c54a9168b",
+        "android_client_info": {
+          "package_name": "com.example.strokemanagement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBixDx6pwMDlGsN9ktlJndgL42gInI0F2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
